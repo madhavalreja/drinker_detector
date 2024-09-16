@@ -16,5 +16,5 @@ Step 4 – Classifier will categorize whether eyes are open or closed.
 
 Step 5 – Calculate score to check whether the person is drowsy.
 
-### For full documentation of the project please click [here](https://drive.google.com/file/d/1zEqCKIUm2xyBGDYBfAtDb1xK_beDlRNW/view?usp=sharing)
+### For full documentation of the project please click [here](https://docs.google.com/document/d/1Pp2OKMji5KGuFiyg9GIwPAviqltCb4M1/edit?usp=sharing&ouid=114050640552361502486&rtpof=true&sd=true)
 
